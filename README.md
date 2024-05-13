@@ -2,6 +2,4 @@ WebRTC APIs
 
 WebRTC mainly works on three APIs:
 
-MediaStream
-RTCPeerConnection
-RTCDataChannel 
+<div><ul><li>MediaStream</li><li style="font-size: 14pt;">RTCPeerConnection</li><li>RTCDataChannel&nbsp;</li></ul></div>
